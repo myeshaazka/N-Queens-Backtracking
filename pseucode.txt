@@ -1,0 +1,12 @@
+Mulai dari baris pertama
+
+Jika semua baris sudah terisi:
+    tampilkan solusi
+
+Untuk setiap kolom:
+    jika posisi aman:
+        tempatkan ratu (Q)
+        lanjut ke baris berikutnya
+
+        jika gagal:
+            hapus ratu (backtracking)
